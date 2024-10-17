@@ -1,8 +1,8 @@
 {
-    "name": "rmitesh/card-stack",
-    "description": "Creates a Filament Card view",
+    "name": "umtreiber/card-stack",
+    "description": "Creates a Filament3 Card view",
     "keywords": [
-        "rmitesh",
+        "umtreiber",
         "laravel",
         "card-stack"
     ],
@@ -10,14 +10,14 @@
     "license": "MIT",
     "authors": [
         {
-            "name": "Mitesh Rathod",
-            "email": "meet.drive32@gmail.com",
+            "name": "Wolfi",
+            "email": "umtreiber@googlemail.com",
             "role": "Developer"
         }
     ],
     "require": {
         "php": "^8.1",
-        "filament/filament": "^2.0",
+        "filament/filament": "^3.0",
         "illuminate/contracts": "^10.0",
         "spatie/laravel-package-tools": "^1.14.0"
     },
